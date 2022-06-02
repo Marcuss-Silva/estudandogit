@@ -1,1 +1,1 @@
-estandando versionamento no GIT/GITHUB
+estudando versionamento no GIT/GITHUB
